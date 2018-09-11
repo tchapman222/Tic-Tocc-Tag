@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tic Tocc Tag", "Assembly-CSharp.csproj", "{758D7996-E09C-D2D1-8184-743F941740A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tic Tocc Tag", "Assembly-CSharp-Editor.csproj", "{92B10EC5-8C88-CAB3-3BD8-D836E8EC6F5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{758D7996-E09C-D2D1-8184-743F941740A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758D7996-E09C-D2D1-8184-743F941740A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758D7996-E09C-D2D1-8184-743F941740A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758D7996-E09C-D2D1-8184-743F941740A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B10EC5-8C88-CAB3-3BD8-D836E8EC6F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B10EC5-8C88-CAB3-3BD8-D836E8EC6F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B10EC5-8C88-CAB3-3BD8-D836E8EC6F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B10EC5-8C88-CAB3-3BD8-D836E8EC6F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
